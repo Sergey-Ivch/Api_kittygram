@@ -8,7 +8,7 @@
 
 ## Использование с Telegram-ботом
 
-Этот API является бэкендом для Telegram-бота Recipe_bot (который запускается локально в проекте kittygram_bot, расположенном по адресу: [https://github.com/Sergey-Ivch/kittygram_bot](https://github.com/Sergey-Ivch/kittygram_bot)). Telegram-бот использует API для получения информации о породах кошек и предоставления её пользователям. Вы можете взаимодействовать с Telegram-ботом, чтобы:
+Этот API является бэкендом для Telegram-бота Kittygram (который запускается локально в проекте kittygram_bot, расположенном по адресу: [https://github.com/Sergey-Ivch/kittygram_bot](https://github.com/Sergey-Ivch/kittygram_bot)). Telegram-бот использует API для получения информации о породах кошек и предоставления её пользователям. Вы можете взаимодействовать с Telegram-ботом, чтобы:
 
 *   Получить список всех пород кошек.
 *   Получить подробную информацию о конкретной породе кошки.
